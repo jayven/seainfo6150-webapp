@@ -10,7 +10,7 @@ const Article = () => {
 
       <h1 style={divStyle}> The Statue of Liberty's torch heads to new museum </h1>
       <div>
-          <em>by Kate Farley (kate.farley@nytimes.com)</em><br />
+          <em>by Kate Farley <a href="mailto: kate.farley@nytimes.com">(kate.farley@nytimes.com)</a></em><br />
           November 22, 2018
       </div>
 
