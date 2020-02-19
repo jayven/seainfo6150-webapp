@@ -1,0 +1,11 @@
+.image {
+    border: 10px solid firebrick;
+    border-radius: 50%;
+
+    height: 110px;
+    width: 190px;
+
+    float: left;
+    margin-right: 1em;
+
+}

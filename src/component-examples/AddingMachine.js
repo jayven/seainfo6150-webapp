@@ -18,7 +18,7 @@ class AddingMachine extends React.Component {
   render() {
     let whee;
 
-    const startNum = this.props.startNum;
+    //const startNum = this.props.startNum;
 
     if (this.state.currentNum % 10 === 0) {
       whee = <div>Whee!</div>;
