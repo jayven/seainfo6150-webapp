@@ -1,4 +1,4 @@
-.container {
+ul {
     list-style: none;
     padding: 20px;
     margin: 20px;
@@ -6,4 +6,16 @@
     border: 1px dashed #666;
     box-shadow: 0px 10px 15px 3px #888;
     border-radius: 20px;
+}
+
+li {
+    background-image: linear-gradient(to right, indianred, white 20%);
+    border: 1px solid firebrick;
+    margin-bottom: 20px;
+    padding: 10px;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 0px 6px 4px 3px #777;
+    list-style-type: none;
+    padding-inline-start: 1rem;
 }

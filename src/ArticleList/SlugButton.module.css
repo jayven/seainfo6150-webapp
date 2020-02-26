@@ -1,11 +1,12 @@
 .slugButton {
-    background: #c00;
+    background: firebrick;
     color: #fff;
     font-size: 12px;
-    position: absolute;
+    position: relative;
     bottom: 10px;
     right: 10px;
     float: right;
     border-radius: 8px;
-    padding: 8px 50px;
+    padding: 8px 40px;
+    overflow:hidden;
 }

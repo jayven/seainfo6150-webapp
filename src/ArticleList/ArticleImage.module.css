@@ -1,9 +1,10 @@
-.image {
+img {
     border: 10px solid firebrick;
     border-radius: 50%;
+    box-shadow: 0 6px 12px 0 firebrick;
 
-    height: 110px;
-    width: 190px;
+    height: 70px;
+    width: 140px;
 
     float: left;
     margin-right: 1em;
