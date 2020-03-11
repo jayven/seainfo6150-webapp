@@ -26,3 +26,21 @@ p {
     margin-left: 15px;
     margin-right: 15px;
 }
+
+@media (min-width: 400px) {
+
+    h1{
+        font-size: 25px;
+        margin: 45px 12px 25px;
+    }
+    time{
+        font-size: 11px;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    p{
+        font-size: 12px;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+}

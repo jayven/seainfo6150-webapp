@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArticleList/ArticleImage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleList/ArticleImage.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArticleList/ArticleList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleList/ArticleList.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArticleList/ArticleListItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleList/ArticleListItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArticleList/ArticleListItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleList/ArticleListItem.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArticleList/SlugButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/ArticleList/SlugButton.module.css" afterDir="false" />
     </list>
@@ -75,7 +74,8 @@
       <workItem from="1582102182328" duration="809000" />
       <workItem from="1582143691743" duration="7515000" />
       <workItem from="1582254352774" duration="4000" />
-      <workItem from="1582708353621" duration="8949000" />
+      <workItem from="1582708353621" duration="9107000" />
+      <workItem from="1583961100090" duration="3154000" />
     </task>
     <servers />
   </component>

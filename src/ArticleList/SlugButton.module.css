@@ -13,3 +13,24 @@
     margin: 20px 10px 30px;
     width: 90%;
 }
+
+@media (min-width: 400px) {
+    .slugButton{
+        width: 70%;
+        background-color:brown;
+    }
+}
+
+@media (min-width: 800px) {
+    .slugButton{
+        width: 80%;
+        background-color: red;
+    }
+}
+
+@media (min-width: 800px) {
+    .slugButton{
+        width: 90%;
+        background-color: darkorange;
+    }
+}
